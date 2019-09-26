@@ -1,0 +1,39 @@
+.brand_bar{
+  height: 105px;
+  background-color: white;
+}
+
+.brand_bar_text{
+  width: 350px;
+  font-family: "Open Sans";
+    margin-top: 23px;
+}
+.brand_bar_text h1 {
+  color: black;
+  font-size: 20px;
+}
+
+.brand_bar_text p {
+  color: #a4a5a8;
+  margin-top: 13px;
+  font-size: 14px;
+}
+
+.brand_bar_icons{
+  float:right;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.brand_bar_icons img {
+  float: right;
+  margin-top: 10px;
+}
+
+.nth-img:nth-child(6) {
+  margin-top: 15px;
+}
+
+.nth-img {
+  margin-right: 64px;
+}

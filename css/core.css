@@ -1,0 +1,10 @@
+body,p,ul,li,h1{
+padding: 0px;
+margin: 0px;
+}
+
+.container {
+width: 1102px;
+margin: 0 auto;
+color: white;
+}
